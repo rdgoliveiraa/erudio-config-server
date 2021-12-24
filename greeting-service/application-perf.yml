@@ -10,4 +10,4 @@ management:
 
 greeting-service:
   greeting: "Hola"
-  default-value: "World"
+  default-value: "Mundo"
